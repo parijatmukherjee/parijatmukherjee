@@ -7,5 +7,10 @@
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: ping me over slack. My username is @parijat.
 
+---
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
