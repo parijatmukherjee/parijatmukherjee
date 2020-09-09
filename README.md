@@ -1,18 +1,21 @@
-### Hi there 👋, I am Parijat
+<h1 align='center'>
+  Hi there 👋 I'm Parijat 👨‍💻
+</h1>
 
-<!--
-**parijatmukherjee/parijatmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align='center'>
+<ul>
+    <li>🔭 I’m currently working on the Pricing Modules of Omio.</li>
+    <li>🌱 I’m currently learning ReactJs.</li>
+    <li>📫 How to reach me: ping me over slack. My username is @parijat.</li>
+</ul>
+</p>
 
-- 🔭 I’m currently working on the Pricing Modules of Omio.
-- 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: ping me over slack. My username is @parijat.
+<p align='center'>
 
----
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=parijatmukherj&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
-![Parijat's github stats](https://github-readme-stats.vercel.app/api?username=parijatmukherjee&show_icons=true&theme=dark)
+</p>
 
----
-
-### :zap: Recent Activity
-
+<p align='center'>
 <!--START_SECTION:activity-->
+</p>
