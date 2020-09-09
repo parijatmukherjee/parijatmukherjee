@@ -11,11 +11,9 @@
 </p>
 
 <p align='center'>
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=parijatmukherjee&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=parijatmukherjee&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
-<!--START_SECTION:activity-->
+    <!--START_SECTION:activity-->
 </p>
