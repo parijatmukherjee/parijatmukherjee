@@ -2,17 +2,17 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/parijatmukherjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 - 🔭 I’m currently working on the Pricing Modules of Omio and trying to learn 🌱 ReactJs.
 - 📫 Ping me over slack. My username is @parijat.
 
 ### Connect with me:
 
-[<img align="left" alt="parijatmukherjee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mohorhere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="parijatmukherjee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="parijatmukherjee | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- Badges 4 README -->
+
+<a href="https://www.linkedin.com/in/parijatmukherjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/parijatmukherjee/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/mohorhere/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://goeuro.slack.com/team/UR5AVV8MA"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /></a>
 
 <br />
 <br />
