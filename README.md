@@ -3,11 +3,7 @@
 </h1>
 
 <p align='center'>
-    <ul>
-        <li>🔭 I’m currently working on the Pricing Modules of Omio.</li>
-        <li>🌱 I’m currently learning ReactJs.</li>
-        <li>📫 How to reach me: ping me over slack. My username is @parijat.</li>
-    </ul>
+    🔭 I’m currently working on the Pricing Modules of Omio and trying to learn 🌱 ReactJs. 📫 Ping me over slack. My username is @parijat.
 </p>
 
 <p align='center'>
