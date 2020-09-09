@@ -11,7 +11,9 @@
 </p>
 
 <p align='center'>
-    <h3>⚡️ Recent Activities</h3>
+    <h3>
+        ⚡️ Recent Activities
+    </h3>
     </br>
     <!--START_SECTION:activity-->
 </p>
