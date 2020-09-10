@@ -15,7 +15,6 @@
 <a href="https://goeuro.slack.com/team/UR5AVV8MA"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /></a>
 
 <br />
-<br />
 
 ---
 
