@@ -2,8 +2,8 @@
 
 <br/>
 
-- 🔭 I’m currently working on the Pricing Modules of Omio and trying to learn 🌱 ReactJs.
-- 📫 Ping me over slack. My username is @parijat.
+- 🔭 I’m currently working for the Pricing Team of Omio and trying to learn 🌱 ReactJs.
+- 📫 You can send me an eamil or ping me over slack or you can use any of the options of your choice below to reach me.  
 
 ### Connect with me:
 
