@@ -13,14 +13,9 @@
 <a href="https://www.instagram.com/parijatmukherjee/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://twitter.com/mohorhere/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://goeuro.slack.com/team/UR5AVV8MA"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /></a>
+<a href="https://parijatmukherjee.github.io"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge" /></a>
 
 <br />
-
----
-
-[website]: https://iamsomraj.github.io/
-
-<br/>
 
 ---
 
