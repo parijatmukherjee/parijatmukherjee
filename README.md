@@ -18,6 +18,12 @@
 
 ---
 
+[website]: https://iamsomraj.github.io/
+
+<br/>
+
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=parijatmukherjee&show_icons=true&hide_border=true&hide=stars,issues&count_private=true" />
 
 ---
@@ -25,3 +31,5 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+---
