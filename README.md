@@ -26,5 +26,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//parijatmukherjee/enpixo-website/pull/1) in [parijatmukherjee/enpixo-website](https://github.com//parijatmukherjee/enpixo-website)
+2. 💪 Opened PR [#1](https://github.com//parijatmukherjee/enpixo-website/pull/1) in [parijatmukherjee/enpixo-website](https://github.com//parijatmukherjee/enpixo-website)
+<!--END_SECTION:activity-->
 
 ---
