@@ -26,8 +26,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/1) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
-2. 💪 Opened PR [#1](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/1) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
+1. 🎉 Merged PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
+2. 🎉 Merged PR [#1](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/1) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
 <!--END_SECTION:activity-->
 
 ---
