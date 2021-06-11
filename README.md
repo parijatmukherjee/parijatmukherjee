@@ -16,16 +16,3 @@
 <a href="https://parijatmukherjee.github.io"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge" /></a>
 
 <br />
-
----
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/2) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
-2. 🎉 Merged PR [#1](https://github.com/parijatmukherjee/parijatmukherjee.github.io/pull/1) in [parijatmukherjee/parijatmukherjee.github.io](https://github.com/parijatmukherjee/parijatmukherjee.github.io)
-<!--END_SECTION:activity-->
-
----
