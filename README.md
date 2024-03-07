@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently working for the Pricing Team of Omio as a Backend Engineer and trying to learn 🌱 ReactJs.
+- 🔭 I’m currently working for the Re-engagement Team of Omio as an Engineer Manager and trying to learn 🌱 Django.
 - 📫 You can send me an email or ping me over slack or you can use any of the options of your choice below to reach me.  
 
 ### Connect with me:
