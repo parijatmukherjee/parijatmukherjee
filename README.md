@@ -1,18 +1,28 @@
-### Hi there 👋 I'm Parijat 👨‍💻
+### 👋 Hi, I’m Parijat  
+💻 **Engineering Manager | AI Enthusiast | Open Source Contributor**  
 
-<br/>
+I'm passionate about building innovative tech solutions and exploring the intersections of software development, AI, and user experience design.  
 
-- 🔭 I’m currently working for the Re-engagement Team of Omio as an Engineer Manager and trying to learn 🌱 Django.
-- 📫 You can send me an email or ping me over slack or you can use any of the options of your choice below to reach me.  
+### 🚀 What I’m Working On  
+- **MohFlow**: A Python logging package that simplifies log management with enhanced features.
+- Exploring the vast possibilities of **AI-driven technologies** through experimentation.
+- - Leading two dynamic teams in **App Growth** at **Omio**, driving innovation and excellence to enhance user engagement and experience.
 
-### Connect with me:
+### 🔧 Skills & Expertise  
+- Programming: **Python**, **Java**, **JavaScript**, **TypeScript**  
+- Tools: **Hugo**, **Nginx**, **Dynamic DNS**, **Linux Systems**  
+- AI & Data: **Model Training**, **LLMs**, **AI Product Development**  
+- Backend: **Java Backends**, **Spring Boot**, **Database Querying with AI**,
 
-<!-- Badges 4 README -->
+### 🌱 Current Focus  
+- Diving deep into **AI model training** and fine-tuning local models.
 
-<a href="https://www.linkedin.com/in/parijatmukherjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/parijatmukherjee/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/mohorhere/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://goeuro.slack.com/team/UR5AVV8MA"><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /></a>
-<a href="https://parijatmukherjee.github.io"><img src="https://img.shields.io/badge/website-%23E4405F.svg?&style=for-the-badge" /></a>
+### 💡 Fun Fact  
+I enjoy combining cutting-edge tech with user-centric design to create tools that are as intuitive as they are powerful.  
 
-<br />
+### 📫 Let’s Connect  
+- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Blog**: [Your Hugo Blog](#)  
+
+### 🌟 Open to Collaboration  
+Feel free to reach out for projects related to AI, open-source development, or innovative software solutions!
