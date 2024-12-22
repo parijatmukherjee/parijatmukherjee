@@ -21,8 +21,8 @@ I'm passionate about building innovative tech solutions and exploring the inters
 I enjoy combining cutting-edge tech with user-centric design to create tools that are as intuitive as they are powerful.  
 
 ### 📫 Let’s Connect  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Blog**: [Your Hugo Blog](#)  
+- **LinkedIn**: [https://www.linkedin.com/in/parijatmukherjee/](https://www.linkedin.com/in/parijatmukherjee/)  
+- **Blog**: [https://www.2darray.com](https://www.2darray.com)
 
 ### 🌟 Open to Collaboration  
 Feel free to reach out for projects related to AI, open-source development, or innovative software solutions!
