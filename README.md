@@ -6,7 +6,7 @@ I'm passionate about building innovative tech solutions and exploring the inters
 ### 🚀 What I’m Working On  
 - **MohFlow**: A Python logging package that simplifies log management with enhanced features.
 - Exploring the vast possibilities of **AI-driven technologies** through experimentation.
-- - Leading two dynamic teams in **App Growth** at **Omio**, driving innovation and excellence to enhance user engagement and experience.
+- Leading two dynamic teams in **App Growth** at **Omio**, driving innovation and excellence to enhance user engagement and experience.
 
 ### 🔧 Skills & Expertise  
 - Programming: **Python**, **Java**, **JavaScript**, **TypeScript**  
