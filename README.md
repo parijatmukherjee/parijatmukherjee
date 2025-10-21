@@ -22,7 +22,7 @@ I enjoy combining cutting-edge tech with user-centric design to create tools tha
 
 ### 📫 Let’s Connect  
 - **LinkedIn**: [https://www.linkedin.com/in/parijatmukherjee/](https://www.linkedin.com/in/parijatmukherjee/)  
-- **Blog**: [https://www.2darray.com](https://www.2darray.com)
+- **Blog**: [https://blog.parijatmukherjee.com](https://blog.parijatmukherjee.com)
 
 ### 🌟 Open to Collaboration  
 Feel free to reach out for projects related to AI, open-source development, or innovative software solutions!
